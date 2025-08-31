@@ -1,8 +1,13 @@
-/* Reset básico */
+h2 {
+  color: blue;
+  padding-bottom: 10px;
+}
+
 body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
+  background-color: #f0d2d2;
 }
 
 /* Cabeçalho */
