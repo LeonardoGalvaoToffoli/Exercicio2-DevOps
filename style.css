@@ -1,4 +1,9 @@
-/* Reset básico */
+h2 {
+  color: darkgreen;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+
 body {
   margin: 0;
   padding: 0;
